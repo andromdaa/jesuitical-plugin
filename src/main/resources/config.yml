@@ -1,0 +1,5 @@
+config:
+  # Minimum amount of time in minutes that should trigger an end of the streak
+  trigger: 5
+  # Placeholders: $days $hours $mins $secs $playerName
+  message: "Testing $days"
